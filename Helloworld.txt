@@ -1,2 +1,4 @@
 Hello World 
 Welcome to the learning Git and Git Hub
+Good your previous chnages was commited and 
+this line you can commit and push again.
