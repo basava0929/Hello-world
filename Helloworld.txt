@@ -2,3 +2,6 @@ Hello World
 Welcome to the learning Git and Git Hub
 Good your previous chnages was commited and 
 this line you can commit and push again.
+
+Hi i am feature brnch i am editing this line 
+Thank you.
